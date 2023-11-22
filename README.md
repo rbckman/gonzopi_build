@@ -62,7 +62,7 @@ Menus
 A short explanation of all the settings and why they are where they are.
 
 ### Film, scene, shot and take
-The idea of the workflow is: film only the essential, you can merge your shots of a scene and view it on the spot and do a retake if you need to fix something rather than filming a bunch and fixing it later while editing. When you get the hang of it there won't be not much editing later.
+The idea of the workflow is: film only the essential, you can merge your shots of a scene and view it on the spot and do a retake if you need to fix something rather than filming a bunch and fixing it later while editing. When you get the hang of it there won't be much editing later.
 
 ### Dubbing
 If you press enter while you've highlighted the film name or a scene you'll be entering dub settings menu. (ADD:d:1.0/o:1.0) this indicates the volume of the (d)ub to the previous (o)riginal mix. So, for example if you want the dub volume to be 50% of the previous audio, the settings would look like this (ADD:d:0.5/o:1.0). A good all-around background music volume level is only 10% so it would look like this (ADD:d:0.1/o:1.0). The other setting is fade in and out in seconds (in: 0.5) (out: 1.0) whould be half a second in and a second out. Now if you press enter while the ADD is highlighted you'll be dubbing. You can change the settings later if you come back to the menu.
@@ -100,3 +100,6 @@ It's good to always backup your stuff! Plug in your usb drive and just press ent
 You can have many on going films, load em up or start as many films as you like.
 
 For Gonzo Pi build instruction see complete [Gonzo Pi Manual](https://github.com/rbckman/gonzopi_build/blob/master/gonzopi-manual.md#building-repairing-and-modding)
+
+
+![Gonzo Pi thumbup](gonzopi_thumbsup.jpeg)
