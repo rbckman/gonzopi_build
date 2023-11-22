@@ -455,20 +455,35 @@ While waiting for ordered parts lets 3d print the rest of the parts. I recommend
 You'll find all the 3d parts in a [blender file](3d/tarina.blend) in the [3d folder](3d/).
 
 [gonzopi-body.stl](3d/tarina-body.stl)
+
 ![body](3d/tarina-body.png)
+
 [gonzopi-button-plate-bottom.stl](3d/tarina-button-plate-bottom.stl)
+
 ![gonzopi-button-plate-bottom](3d/tarina-button-plate-bottom.png)
+
 [gonzopi-button-plate-upper](3d/tarina-button-plate-upper.stl)
+
 ![gonzopi-button-plate-upper](3d/tarina-button-plate-upper.png)
+
 [gonzopi-hdmi-cap](3d/tarina-hdmi-cap.stl)
+
 ![gonzopi-hdmi-cap](3d/tarina-hdmi-cap.png)
+
 [gonzopi-left-side](3d/tarina-left-side.stl)
+
 ![gonzopi-left-side](3d/tarina-left-side.png)
+
 [gonzopi-picamera-body](3d/tarina-picamera-hq-body.stl)
+
 ![gonzopi-picamera-body](3d/tarina-picamera-hq-body.png)
+
 [gonzopi-right-side](3d/tarina-right-side.stl)
+
 ![gonzopi-right-side](3d/tarina-right-side.png)
+
 [gonzopi-screen-lid](3d/tarina-screen-lid-hyperpixel.stl)
+
 ![gonzopi-screen-lid](3d/tarina-screen-lid-hyperpixel.png)
 
 Wiring
