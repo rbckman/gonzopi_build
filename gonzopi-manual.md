@@ -452,39 +452,39 @@ Price ~3 eur 10 pcs
 
 While waiting for ordered parts lets 3d print the rest of the parts. I recommend printing with a solid 100% infill. Now it is pretty crucial that you have a good calibrated printer so that you don't over/under print. Some parts need to be very precise to work.
 
-You'll find all the 3d parts in a [blender file](3d/tarina.blend) in the [3d folder](3d/).
+You'll find all the 3d parts in a [blender file](3d/gonzopi.blend) in the [3d folder](3d/).
 
-[gonzopi-body.stl](3d/tarina-body.stl)
+[gonzopi-body.stl](3d/gonzopi-body.stl)
 
-![body](3d/tarina-body.png)
+![body](3d/gonzopi-body.png)
 
-[gonzopi-button-plate-bottom.stl](3d/tarina-button-plate-bottom.stl)
+[gonzopi-button-plate-bottom.stl](3d/gonzopi-button-plate-bottom.stl)
 
-![gonzopi-button-plate-bottom](3d/tarina-button-plate-bottom.png)
+![gonzopi-button-plate-bottom](3d/gonzopi-button-plate-bottom.png)
 
-[gonzopi-button-plate-upper](3d/tarina-button-plate-upper.stl)
+[gonzopi-button-plate-upper](3d/gonzopi-button-plate-upper.stl)
 
-![gonzopi-button-plate-upper](3d/tarina-button-plate-upper.png)
+![gonzopi-button-plate-upper](3d/gonzopi-button-plate-upper.png)
 
-[gonzopi-hdmi-cap](3d/tarina-hdmi-cap.stl)
+[gonzopi-hdmi-cap](3d/gonzopi-hdmi-cap.stl)
 
-![gonzopi-hdmi-cap](3d/tarina-hdmi-cap.png)
+![gonzopi-hdmi-cap](3d/gonzopi-hdmi-cap.png)
 
-[gonzopi-left-side](3d/tarina-left-side.stl)
+[gonzopi-left-side](3d/gonzopi-left-side.stl)
 
-![gonzopi-left-side](3d/tarina-left-side.png)
+![gonzopi-left-side](3d/gonzopi-left-side.png)
 
-[gonzopi-picamera-body](3d/tarina-picamera-hq-body.stl)
+[gonzopi-picamera-body](3d/gonzopi-picamera-hq-body.stl)
 
-![gonzopi-picamera-body](3d/tarina-picamera-hq-body.png)
+![gonzopi-picamera-body](3d/gonzopi-picamera-hq-body.png)
 
-[gonzopi-right-side](3d/tarina-right-side.stl)
+[gonzopi-right-side](3d/gonzopi-right-side.stl)
 
-![gonzopi-right-side](3d/tarina-right-side.png)
+![gonzopi-right-side](3d/gonzopi-right-side.png)
 
-[gonzopi-screen-lid](3d/tarina-screen-lid-hyperpixel.stl)
+[gonzopi-screen-lid](3d/gonzopi-screen-lid-hyperpixel.stl)
 
-![gonzopi-screen-lid](3d/tarina-screen-lid-hyperpixel.png)
+![gonzopi-screen-lid](3d/gonzopi-screen-lid-hyperpixel.png)
 
 Wiring
 ======
