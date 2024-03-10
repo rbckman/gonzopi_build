@@ -30,6 +30,8 @@ Keys
 ### Buttons
 ![Buttons](buttons.png)
 
+![View Buttons](view-buttons.png)
+
 ### Keyboard
 ![Wireless keyboard](keyboard.jpg)
 
@@ -81,9 +83,6 @@ Control teh level of your mic and headphones. Comp is a basic compressor so your
 
 ### Timelapse
 Do a timelapse when you need to tell about time. There's an under menu here where you can choose the intervall of the takes, now this isn't really a traditional timelapse, it will instead do a 0.2 sec video at each intervall or it can be set to your likings but 0.2 is good for a traditional timelapse effect. At the bottom of the screen is a calculation of how long the clip will be if you do the timelapse for an hour. I'd say don't over do it! a 10 - 20 sec clip is already quite a stretch but its up to you, you're the movie film director.
-
-### Lens
-A future implementation of lens shade correction will come where you get to do your own lens corrections to get those colors right on the spot!
 
 ### Dsk, shutdown, srv, wifi
 Disk space, showing you how much of space left on your sd card. Shutdown, when your really done! it's good to do this before cutting the power or otherwise there's a small chance of sd card corruption. Srv is a network server, if your connected to a network and put this on you should be able to go to any browser on any device and watch your movie films (that is if you've rendered them first), just go to http://gonzopi.local or it might be that you have to know the ip address of your gonzopi (you'll find it when you've connected it. Press enter on wifi. There it is on the bottom of the screen, looks like this 192.168.1.105). If you press enter on wifi you will be transported to a glorious program called Wicd curses, here you really need to have a keyboard to set up your connections. Hints are down on the screen what buttons to press. To get back into Gonzopi press "q".
