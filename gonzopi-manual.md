@@ -5,8 +5,12 @@
 
 ![Filming with Gonzopi](gonzopi_filming.jpeg)
 
-It's a video camera with tape and scissors!
----------------------------------------------------------
+Gonzo Pi's philosophy
+--------------------------------
+The Gonzo Pi is an open-source camera and filmmaking platform built around a Raspberry Pi single-board computer, designed to capture and edit films in unique, hands-on way. It draws its name from gonzo journalism, a subjective, immersive style pioneered by Hunter S. Thompson, reflecting it's emphasis on raw, immediate, and personal filmmaking.
+
+
+
 Press view button while a scene is selected will glue all last takes of all shots in that scene together and play it. Press view while a film is selected will glue all scenes in that film together.
 
 And multitrack audio dubbing
