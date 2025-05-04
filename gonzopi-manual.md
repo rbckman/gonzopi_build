@@ -109,6 +109,9 @@ Shutter and iso are well know basic camera concepts. With red and blue you contr
 ### Bright, cont, sat
 Color grade on the go with brightness, contrast and saturation. You will probably have to play with theses to figure out what you want. Remember that as you're making your film ready while you're shooting it take by take, there's no color grading later on so you'll have to settle on your color grade before you film. To get that good old spaghetti western look go with the contrast at -19.
 
+### VFX
+Some realtime effects like invert, negative, film grain, solarize, denoise, colorpoint, solorswap, posterize and blur
+
 ### Flip, beep, lenght
 If you go gonzo, flippin it is the way to go! beep is a countdown timer from the moment you press rec or retake to when it actually starts filming. Lenght let's you put in the lenght of your take before you actually start filming. Both of these are very useful if you film action alone and can't reach for the buttons. 
 
@@ -135,6 +138,11 @@ Press middle button on SRV: to view multicamera options
 ### Blending
 Copy a take and choose what take to blend with and hit middle button on BLEND:
 
+### Live
+Hit enter to select where to push stream (what ip and port) it will then be saved til you remove it with remove button
+
+### MUX
+When MUX 'yes' mp3 is merged together with the video, it will take a little longer to render but this is essentially what you want to do when you have your film ready and want to share it.
 
 ------------------------------
 
