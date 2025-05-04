@@ -13,7 +13,6 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -21,56 +20,51 @@
 <p><img src="gonzopi-logo.png" /></p>
 <p><br></p>
 <figure>
-<img src="gonzopi_filming.jpeg" alt="Filming with Gonzopi" />
-<figcaption aria-hidden="true">Filming with Gonzopi</figcaption>
+<img src="gonzopi_filming.jpeg" alt="" /><figcaption>Filming with Gonzopi</figcaption>
 </figure>
-<h2 id="its-a-video-camera-with-tape-and-scissors">It’s a video camera
-with tape and scissors!</h2>
-<p>Press view button while a scene is selected will glue all last takes
-of all shots in that scene together and play it. Press view while a film
-is selected will glue all scenes in that film together.</p>
-<h2 id="and-multitrack-audio-dubbing">And multitrack audio dubbing</h2>
-<p>Pressing enter/middle button on a film, scene or shot will take you
-to a multitrack dub settings menu. Here you can press record to begin a
-new audio dub track, you can have as many dub tracks as you need. Next
-time you view your shot, scene or film it will be mixed in.</p>
+<h2 id="the-gonzo-pi-philosophy-filmmaking-unchained">The Gonzo Pi Philosophy: Filmmaking, Unchained</h2>
+<p>The Gonzo Pi isn’t just a camera—it’s a rebellion against polished, overproduced filmmaking. Inspired by the raw, immersive chaos of gonzo journalism, pioneered by Hunter S. Thompson, this palm-sized, Raspberry Pi-powered beast is built for storytellers who want to dive headfirst into their world and come out with a film that’s as real as it gets. It’s not about perfection; it’s about truth, immediacy, and creativity unleashed.</p>
+<h2 id="the-tree-of-creation-every-take-matters">The Tree of Creation: Every Take Matters</h2>
+<p>At the heart of it is its unique approach to organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for you scenes and films with only special files pointing to a new cut, dub or effects to be inserted. Simple yet so powerful that your camera becomes a studio. Every film you start becomes a root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes. Every edited take is preserved as its own file in this tree.</p>
+<h2 id="freedom-through-open-source">Freedom Through Open Source</h2>
+<p>The Gonzo Pi is open-source because creativity shouldn’t be locked behind proprietary walls. Its 3D-printed body, Raspberry Pi core, and customizable software invite you to hack, mod, and make it your own. Want to mount it on a drone? Make it waterproof? Add a bizarre lens from a 1970s thrift shop? Go for it. The Gonzo Pi is a canvas for your imagination, not a walled garden.</p>
+<h2 id="whos-this-for">Who’s This For?</h2>
+<p>You. The dreamer, the tinkerer, the storyteller who doesn’t need a Hollywood budget to make something real. Whether you’re a coder rigging multi-camera setups or a newbie just pointing and shooting, the Gonzo Pi meets you where you are. It’s for anyone who believes a story is worth telling, no matter how raw or unpolished.</p>
+<p>In the spirit of gonzo, the Gonzo Pi dares you to grab it, run into the chaos, and come back with a film that’s unmistakably yours.</p>
+<h2 id="technical-section-getting-started-with-the-gonzo-pi">Technical Section: Getting Started with the Gonzo Pi</h2>
+<p>Now that you’re pumped about the Gonzo Pi’s vibe, let’s get it up and running. This section covers the basics of setting up your hardware, installing the software, and understanding the film/scene/shot/take tree that makes the Gonzo Pi so intuitive. No tech degree required—just a bit of curiosity and a love for filmmaking.</p>
+<h2 id="hardware-setup">Hardware Setup</h2>
+<p>The Gonzo Pi is a compact, customizable filmmaking machine. Here’s what you’ll need to build one:</p>
+<ul>
+<li>Raspberry Pi 4B: The brain of the operation. (A 3B+ or 3B works too, but 4B is the standard.)</li>
+<li>Sony IMX Camera Sensor (12.3MP): Captures crisp, vibrant footage.</li>
+<li>C-Mount and CS-Mount Lenses: Pick a lens for your style—vintage, wide-angle, or quirky. C-mount adapters are widely available.</li>
+<li>3D-Printed Body: Download the STL files from gonzopi.org and print the case. It’s designed for easy assembly and modding.</li>
+<li>MicroSD Card and an External USB3 SSD Hard-Drive: SD card is for the brainz and the External Hard-Drive is for storing your films.</li>
+<li>Power Source: 7800mAh li-ion Battery pack (5-6h of filming)</li>
+<li>Optional Add-Ons: HDMI display for a bigger view, USB sound card for better audio, or a viewfinder for precision.</li>
+</ul>
+<h2 id="so-how-does-it-work-in-detail">So how does it work in detail?</h2>
+<p>Let’s start with how to control it.</p>
 <figure>
-<img src="gonzopi-gui.jpeg" alt="Gonzopi UI" />
-<figcaption aria-hidden="true">Gonzopi UI</figcaption>
+<img src="gonzopi-gui.jpeg" alt="" /><figcaption>Gonzopi UI</figcaption>
 </figure>
-<p>Control the GonzoPi with a keyboard or through the network or with
-physical buttons; Enter, Up, Down, Left, Right, Record, Retake, View and
-Remove.</p>
-<h2 id="retake">Retake</h2>
-<p>After recording, press record to make next shot or press retake and
-you’ll be filming a new take, the last take in a shot is chosen when
-viewing a scene or the whole film. Hint! pressing record while browsing
-existing takes, shots and scenes will take you to the last shot in that
-scene. Pressing retake will do just that, a retake. Makes perfectly
-sense, right? Fiddle around with it, you’ll totally get it.</p>
+<p>Control the GonzoPi with a keyboard or through the network or with physical buttons; Enter, Up, Down, Left, Right, Record, Retake, View and Remove.</p>
 <h1 id="keys">Keys</h1>
-<h3 id="buttons">Buttons</h3>
 <figure>
-<img src="buttons.png" alt="Buttons" />
-<figcaption aria-hidden="true">Buttons</figcaption>
+<img src="gonzopi-buttons.jpeg" alt="" /><figcaption>Gonzopi UI</figcaption>
 </figure>
 <figure>
-<img src="view-buttons.png" alt="View Buttons" />
-<figcaption aria-hidden="true">View Buttons</figcaption>
+<img src="buttons.png" alt="" /><figcaption>Buttons</figcaption>
+</figure>
+<figure>
+<img src="view-buttons.png" alt="" /><figcaption>View Buttons</figcaption>
 </figure>
 <h3 id="keyboard">Keyboard</h3>
 <figure>
-<img src="keyboard.jpg" alt="Wireless keyboard" />
-<figcaption aria-hidden="true">Wireless keyboard</figcaption>
+<img src="keyboard.jpg" alt="" /><figcaption>Wireless keyboard</figcaption>
 </figure>
-<p>With keys up and down you change a specific setting, for example
-shutter speed. With keys left and right you change what settings to
-change. With view, you can view the last shot or if you have a specific
-scene highlighted the camera would automatically glue all shots together
-and play that scene for you, same goes for film. With remove you can
-remove a specific take, shot, scene or film. With the retake button you
-retake a bad take, this is how the camera keeps track of your good
-takes. The last take is always the chosen one.</p>
+<p>With keys up and down you change a specific setting, for example shutter speed. With keys left and right you change what settings to change. With view, you can view the last shot or if you have a specific scene highlighted the camera would automatically glue all shots together and play that scene for you, same goes for film. With remove you can remove a specific take, shot, scene or film. With the retake button you retake a bad take, this is how the camera keeps track of your good takes. The last take is always the chosen one.</p>
 <p>Special keys on the keyboard (CAPITAL):</p>
 <p>H = Hide / Show Help</p>
 <p>C = Copy scene/shot</p>
@@ -81,356 +75,196 @@ takes. The last take is always the chosen one.</p>
 <p>PageDown = Retake</p>
 <p>Tab = View</p>
 <p>A = Hide / Show Menu</p>
-<figure>
-<img src="gonzopi_gonzomode.jpeg" alt="Gonzo Mode" />
-<figcaption aria-hidden="true">Gonzo Mode</figcaption>
-</figure>
+<h2 id="how-to-make-a-film-from-many-takes">How to make a film from many takes?</h2>
+<p>It’s very simple and intuitive. Press view button while a scene is selected will glue all last takes of all shots in that scene together and play it. Press view while a film is selected will glue all scenes in that film together.</p>
+<h2 id="and-multitrack-audio-dubbing">And multitrack audio dubbing</h2>
+<p>Pressing enter/middle button on a film, scene or shot will take you to a multitrack dub settings menu. Here you can press record to begin a new audio dub track, you can have as many dub tracks as you need. Next time you view your shot, scene or film it will be mixed in.</p>
+<h2 id="retake">Retake</h2>
+<p>After recording, press record to make next shot or press retake and you’ll be filming a new take, the last take in a shot is chosen when viewing a scene or the whole film. Hint! pressing record while browsing existing takes, shots and scenes will take you to the last shot in that scene. Pressing retake will do just that, a retake. Makes perfectly sense, right? Fiddle around with it, you’ll totally get it.</p>
 <h1 id="menus">Menus</h1>
-<p>A short explanation of all the settings and why they are where they
-are.</p>
+<p>A short explanation of all the settings and why they are where they are.</p>
 <h3 id="film-scene-shot-and-take">Film, scene, shot and take</h3>
-<p>The idea of the workflow is: film only the essential, you can merge
-your shots of a scene and view it on the spot and do a retake if you
-need to fix something rather than filming a bunch and fixing it later
-while editing. When you get the hang of it there won’t be not much
-editing later.</p>
+<p>The idea of the workflow is: film only the essential, you can merge your shots of a scene and view it on the spot and do a retake if you need to fix something rather than filming a bunch and fixing it later while editing. When you get the hang of it there won’t be not much editing later.</p>
 <h3 id="dubbing">Dubbing</h3>
-<p>If you press enter while you’ve highlighted the film name or a scene
-you’ll be entering dub settings menu. (ADD:d:1.0/o:1.0) this indicates
-the volume of the (d)ub to the previous (o)riginal mix. So, for example
-if you want the dub volume to be 50% of the previous audio, the settings
-would look like this (ADD:d:0.5/o:1.0). A good all-around background
-music volume level is only 10% so it would look like this
-(ADD:d:0.1/o:1.0). The other setting is fade in and out in seconds (in:
-0.5) (out: 1.0) whould be half a second in and a second out. Now if you
-press enter while the ADD is highlighted you’ll be dubbing. You can
-change the settings later if you come back to the menu.</p>
+<p>If you press enter while you’ve highlighted the film name or a scene you’ll be entering dub settings menu. (ADD:d:1.0/o:1.0) this indicates the volume of the (d)ub to the previous (o)riginal mix. So, for example if you want the dub volume to be 50% of the previous audio, the settings would look like this (ADD:d:0.5/o:1.0). A good all-around background music volume level is only 10% so it would look like this (ADD:d:0.1/o:1.0). The other setting is fade in and out in seconds (in: 0.5) (out: 1.0) whould be half a second in and a second out. Now if you press enter while the ADD is highlighted you’ll be dubbing. You can change the settings later if you come back to the menu.</p>
 <h3 id="shutter-iso-red-blue">Shutter, iso, red, blue</h3>
-<p>Shutter and iso are well know basic camera concepts. With red and
-blue you control the colors. If you press enter while on any of these
-then it will go into auto mode and if you press it again it will go back
-to manual mode with the current auto settings. I’m using this feature to
-quickly find a reasonable good value before I’m locking and tuning the
-settings manually to my likings. Cuz you always will know better than
-the robots!</p>
+<p>Shutter and iso are well know basic camera concepts. With red and blue you control the colors. If you press enter while on any of these then it will go into auto mode and if you press it again it will go back to manual mode with the current auto settings. I’m using this feature to quickly find a reasonable good value before I’m locking and tuning the settings manually to my likings. Cuz you always will know better than the robots!</p>
 <h3 id="bright-cont-sat">Bright, cont, sat</h3>
-<p>Color grade on the go with brightness, contrast and saturation. You
-will probably have to play with theses to figure out what you want.
-Remember that as you’re making your film ready while you’re shooting it
-take by take, there’s no color grading later on so you’ll have to settle
-on your color grade before you film. To get that good old spaghetti
-western look go with the contrast at -19.</p>
+<p>Color grade on the go with brightness, contrast and saturation. You will probably have to play with theses to figure out what you want. Remember that as you’re making your film ready while you’re shooting it take by take, there’s no color grading later on so you’ll have to settle on your color grade before you film. To get that good old spaghetti western look go with the contrast at -19.</p>
 <h3 id="flip-beep-lenght">Flip, beep, lenght</h3>
-<p>If you go gonzo, flippin it is the way to go! beep is a countdown
-timer from the moment you press rec or retake to when it actually starts
-filming. Lenght let’s you put in the lenght of your take before you
-actually start filming. Both of these are very useful if you film action
-alone and can’t reach for the buttons.</p>
+<p>If you go gonzo, flippin it is the way to go! beep is a countdown timer from the moment you press rec or retake to when it actually starts filming. Lenght let’s you put in the lenght of your take before you actually start filming. Both of these are very useful if you film action alone and can’t reach for the buttons.</p>
 <h3 id="mic-phones-comp">Mic, phones, comp</h3>
-<p>Control teh level of your mic and headphones. Comp is a basic
-compressor so your message comes across and we hear ya! it’s quite harsh
-at the moment but I like it when it goes craking up abit like in the
-good old 70s cinema.</p>
+<p>Control teh level of your mic and headphones. Comp is a basic compressor so your message comes across and we hear ya! it’s quite harsh at the moment but I like it when it goes craking up abit like in the good old 70s cinema.</p>
 <h3 id="timelapse">Timelapse</h3>
-<p>Do a timelapse when you need to tell about time. There’s an under
-menu here where you can choose the intervall of the takes, now this
-isn’t really a traditional timelapse, it will instead do a 0.2 sec video
-at each intervall or it can be set to your likings but 0.2 is good for a
-traditional timelapse effect. At the bottom of the screen is a
-calculation of how long the clip will be if you do the timelapse for an
-hour. I’d say don’t over do it! a 10 - 20 sec clip is already quite a
-stretch but its up to you, you’re the movie film director.</p>
+<p>Do a timelapse when you need to tell about time. There’s an under menu here where you can choose the intervall of the takes, now this isn’t really a traditional timelapse, it will instead do a 0.2 sec video at each intervall or it can be set to your likings but 0.2 is good for a traditional timelapse effect. At the bottom of the screen is a calculation of how long the clip will be if you do the timelapse for an hour. I’d say don’t over do it! a 10 - 20 sec clip is already quite a stretch but its up to you, you’re the movie film director.</p>
 <h3 id="dsk-shutdown-srv-wifi">Dsk, shutdown, srv, wifi</h3>
-<p>Disk space, showing you how much of space left on your sd card.
-Shutdown, when your really done! it’s good to do this before cutting the
-power or otherwise there’s a small chance of sd card corruption. Srv is
-a network server, if your connected to a network and put this on you
-should be able to go to any browser on any device and watch your movie
-films (that is if you’ve rendered them first), just go to
-http://gonzopi.local or it might be that you have to know the ip address
-of your gonzopi (you’ll find it when you’ve connected it. Press enter on
-wifi. There it is on the bottom of the screen, looks like this
-192.168.1.105). If you press enter on wifi you will be transported to a
-glorious program called Wicd curses, here you really need to have a
-keyboard to set up your connections. Hints are down on the screen what
-buttons to press. To get back into Gonzopi press “q”.</p>
+<p>Disk space, showing you how much of space left on your sd card. Shutdown, when your really done! it’s good to do this before cutting the power or otherwise there’s a small chance of sd card corruption. Srv is a network server, if your connected to a network and put this on you should be able to go to any browser on any device and watch your movie films (that is if you’ve rendered them first), just go to http://gonzopi.local or it might be that you have to know the ip address of your gonzopi (you’ll find it when you’ve connected it. Press enter on wifi. There it is on the bottom of the screen, looks like this 192.168.1.105). If you press enter on wifi you will be transported to a glorious program called Wicd curses, here you really need to have a keyboard to set up your connections. Hints are down on the screen what buttons to press. To get back into Gonzopi press “q”.</p>
 <h3 id="update-and-upload">Update and upload</h3>
-<p>Update the camera to the most exclusive version, this is still pretty
-much a-work-in-progress and as a warnign expect some bugs! don’t worry
-I’ll be improving things but it takes time. Upload your film to the web,
-there is a youtube uploader mod you can install but you’ll have to do
-some configs to make it work for you. Details coming soon. Reach out to
-the matrix room if you’re in a hurry..</p>
-<p>to get the youtube api secrets
-<code>wget https://gonzopi.org/yt/.client_secrets.json</code></p>
+<p>Update the camera to the most exclusive version, this is still pretty much a-work-in-progress and as a warnign expect some bugs! don’t worry I’ll be improving things but it takes time. Upload your film to the web, there is a youtube uploader mod you can install but you’ll have to do some configs to make it work for you. Details coming soon. Reach out to the matrix room if you’re in a hurry..</p>
+<p>to get the youtube api secrets <code>wget https://gonzopi.org/yt/.client_secrets.json</code></p>
 <h3 id="backup">Backup</h3>
-<p>It’s good to always backup your stuff! Plug in your usb drive and
-just press enter and sit back and relax as the wonderful work of
-computer copying does the magic. While you’re at it open a beer cuz it
-can take quite a while if you got much stuff on there. Now, this should
-be working on almost all hard drives but there are some that still use a
-very old file system called fat, and its as lazy as its given name and
-doesnt store critical information we would want, because we want the
-copying to only copy our new takes or retakes. So please use new drives
-like ntfs systems or ext or whatever they all are called. You’ll find
-all your takes even the shitty ones on your harddrive in a directory
-called /gonzopifilms/. One more thing, there are some drives that are
-very power hungry and doesnt come with it’s own power source, now these
-drives are very bad for this particular use because the Gonzopi has
-limited amounts of power for usb use, so to be sure it’s gonna work, use
-powered hard drives that has got a power cord.</p>
+<p>It’s good to always backup your stuff! Plug in your usb drive and just press enter and sit back and relax as the wonderful work of computer copying does the magic. While you’re at it open a beer cuz it can take quite a while if you got much stuff on there. Now, this should be working on almost all hard drives but there are some that still use a very old file system called fat, and its as lazy as its given name and doesnt store critical information we would want, because we want the copying to only copy our new takes or retakes. So please use new drives like ntfs systems or ext or whatever they all are called. You’ll find all your takes even the shitty ones on your harddrive in a directory called /gonzopifilms/. One more thing, there are some drives that are very power hungry and doesnt come with it’s own power source, now these drives are very bad for this particular use because the Gonzopi has limited amounts of power for usb use, so to be sure it’s gonna work, use powered hard drives that has got a power cord.</p>
 <h3 id="load-and-new">Load and new</h3>
-<p>You can have many on going films, load em up or start as many films
-as you like.</p>
+<p>You can have many on going films, load em up or start as many films as you like.</p>
+<h3 id="multi-camera">Multi-camera</h3>
+<p>Press middle button on SRV: to view multicamera options</p>
+<h3 id="blending">Blending</h3>
+<p>Copy a take and choose what take to blend with and hit middle button on BLEND:</p>
 <hr />
-<h3 id="building-repairing-modding">[Building, repairing &amp;
-modding]</h3>
+<h1 id="building-repairing-and-modding">Building, repairing and modding</h1>
 <ol type="1">
 <li><a href="#get-the-parts">Get the parts</a></li>
-<li><a href="#3d-printing">3d printing</a></li>
-<li><a href="#post-processing">Post processing</a></li>
+<li><a href="#printing-the-printable-parts">Printing the printable parts</a></li>
 <li><a href="#wiring">Wiring</a></li>
-<li><a href="#putting-it-together">Putting it together</a></li>
 <li><a href="#installing-software">Installing software</a></li>
 <li><a href="#tested-lenses">Tested lenses</a></li>
 </ol>
-<h1 id="building-repairing-and-modding">Building, repairing and
-modding</h1>
 <h2 id="get-the-parts">Get the parts</h2>
 <figure>
-<img src="gonzopi-build_01.jpg" alt="Gonzopi parts layed out" />
-<figcaption aria-hidden="true">Gonzopi parts layed out</figcaption>
+<img src="gonzopi-build_01.jpg" alt="" /><figcaption>Gonzopi parts layed out (this is a very old Gonzo Pi version)</figcaption>
 </figure>
-<p>Here is a list of parts that are recommended, there are other parts
-that probably will work but requires some hacking.</p>
+<p>Here is a list of parts that are recommended, there are other parts that probably will work but requires some hacking.</p>
 <h2 id="raspberry-pi-4-b">Raspberry pi 4 B</h2>
 <p>Price ~40 eur</p>
-<p>The heart of Gonzopi. Why Raspberry pi you ask? There are several
-reasons:</p>
+<p>The heart of Gonzopi. Why Raspberry pi you ask? There are several reasons:</p>
 <ul>
 <li>Huge support.</li>
 <li>The great Debian based os Raspbian.</li>
 <li>Low price.</li>
 <li>Picamera.</li>
 </ul>
-<p><strong>Links</strong> <a href="https://raspberrypi.org">Raspberry pi
-site</a> <strong>Buy</strong> <a
-href="https://www.tme.eu/fi/details/sc0192-11/raspberry-pi-minitietokoneet/raspberry-pi/raspberry-pi-4-model-b-1gb-ram/?brutto=1&amp;currency=EUR&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=FINLANDIA%20%5BPLA%5D%20CSS%20%5BHP%5D&amp;gad_source=1&amp;gclid=EAIaIQobChMI9vy3hKHujAMV1l6RBR3eHRuqEAQYAiABEgJRC_D_BwE">TME.EU</a></p>
+<p><strong>Links</strong> <a href="https://raspberrypi.org">Raspberry pi site</a> <strong>Buy</strong> <a href="https://www.tme.eu/fi/details/sc0192-11/raspberry-pi-minitietokoneet/raspberry-pi/raspberry-pi-4-model-b-1gb-ram/?brutto=1&amp;currency=EUR&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=FINLANDIA%20%5BPLA%5D%20CSS%20%5BHP%5D&amp;gad_source=1&amp;gclid=EAIaIQobChMI9vy3hKHujAMV1l6RBR3eHRuqEAQYAiABEgJRC_D_BwE">TME.EU</a></p>
 <h2 id="gb-samsung-evo-micro-sd">64 Gb Samsung Evo+ Micro SD</h2>
 <p>Price ~10 eur</p>
 <p>This is a good performance card.</p>
-<p><a
-href="https://www.aliexpress.com/item/32676225311.html?spm=a2g0o.productlist.0.0.11ed1b664kPdEf&amp;algo_pvid=d9155fff-7ddc-47bb-9512-f7e686fe69ac&amp;algo_expid=d9155fff-7ddc-47bb-9512-f7e686fe69ac-0&amp;btsid=e2f36205-1c37-47bc-9a94-c006837f0992&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
-<h2 id="raspberry-pi-high-quality-camera">Raspberry Pi High Quality
-Camera</h2>
+<p><a href="https://www.aliexpress.com/item/32676225311.html?spm=a2g0o.productlist.0.0.11ed1b664kPdEf&amp;algo_pvid=d9155fff-7ddc-47bb-9512-f7e686fe69ac&amp;algo_expid=d9155fff-7ddc-47bb-9512-f7e686fe69ac-0&amp;btsid=e2f36205-1c37-47bc-9a94-c006837f0992&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
+<h2 id="raspberry-pi-high-quality-camera">Raspberry Pi High Quality Camera</h2>
 <p>Price ~60 eur</p>
-<p>This is the recommended camera module for Gonzopi, 12.3 megapixel
-Sony IMX477 sensor, 7.9mm diagonal image size, and back-illuminated
-sensor architecture, with adjustable back focus and support for C- and
-CS-mount lenses.</p>
-<p><strong>Links</strong> <strong>Buy</strong> <a
-href="https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/?resellerType=home">Raspberry
-pi</a></p>
-<h2 id="pimoroni-hyperpixel-4-inch-screen">Pimoroni Hyperpixel 4 inch
-screen</h2>
+<p>This is the recommended camera module for Gonzopi, 12.3 megapixel Sony IMX477 sensor, 7.9mm diagonal image size, and back-illuminated sensor architecture, with adjustable back focus and support for C- and CS-mount lenses.</p>
+<p><strong>Links</strong> <strong>Buy</strong> <a href="https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/?resellerType=home">Raspberry pi</a></p>
+<h2 id="pimoroni-hyperpixel-4-inch-screen">Pimoroni Hyperpixel 4 inch screen</h2>
 <p>Price ~35 eur</p>
-<p>Bright 4 inch responsible screen. Beware when installing the screen,
-it’s quite britle!</p>
-<p><strong>Links</strong> <a
-href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-hyperpixel-4">Pimoroni</a>
-<strong>Buy</strong> <a
-href="https://shop.pimoroni.com/products/hyperpixel-4">Pimoroni</a> <a
-href="https://fi.farnell.com/pimoroni/pim370/hyperpixel-board-raspberry-pi/dp/3401805">Farnell</a></p>
+<p>Bright 4 inch responsible screen. Beware when installing the screen, it’s quite britle!</p>
+<p><strong>Links</strong> <a href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-hyperpixel-4">Pimoroni</a> <strong>Buy</strong> <a href="https://shop.pimoroni.com/products/hyperpixel-4">Pimoroni</a> <a href="https://fi.farnell.com/pimoroni/pim370/hyperpixel-board-raspberry-pi/dp/3401805">Farnell</a></p>
 <h2 id="usb-via-vt1620a-sound-card">USB via vt1620a sound card</h2>
 <p>Price ~1 eur</p>
-<p>Really cheap usb soundcard. It has been working suprisingly well.
-Have not tested other cards yet.</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/Professional-External-USB-Sound-Card-Adapter-Virtual-7-1-Channel-3D-Audio-with-3-5mm-Headset/32588038556.html?spm=2114.01010208.8.8.E8ZKLB">Aliexpress</a></p>
+<p>Really cheap usb soundcard. It has been working suprisingly well. Have not tested other cards yet.</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/Professional-External-USB-Sound-Card-Adapter-Virtual-7-1-Channel-3D-Audio-with-3-5mm-Headset/32588038556.html?spm=2114.01010208.8.8.E8ZKLB">Aliexpress</a></p>
 <h2 id="v-7800mah-li-ion-battery">3.7v 7800mAh li-ion Battery</h2>
 <p>Price ~17 eur</p>
-<p>I have tried several batteries, the adafruit 6800mAh is also
-fine.</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/free-shipping-3-7v-7800mah-18650-li-ion-rechargeable-battery-pack-18650-3P-lithium-ion-battery/32823635264.html?spm=a2g0s.9042311.0.0.49ba4c4dyoKkZS">Aliexpress</a></p>
-<p>Or you can buy 3 pcs of 3.7V 18650 Lithium cells and protect them
-with an Lithium Battery Protection Board Overcharge Over-discharge.</p>
-<p><a
-href="https://www.aliexpress.com/item/32826851071.html?spm=a2g0s.9042311.0.0.27424c4dUBojcv">Aliexpress</a></p>
+<p>I have tried several batteries, the adafruit 6800mAh is also fine.</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/free-shipping-3-7v-7800mah-18650-li-ion-rechargeable-battery-pack-18650-3P-lithium-ion-battery/32823635264.html?spm=a2g0s.9042311.0.0.49ba4c4dyoKkZS">Aliexpress</a></p>
+<p>Or you can buy 3 pcs of 3.7V 18650 Lithium cells and protect them with an Lithium Battery Protection Board Overcharge Over-discharge.</p>
+<p><a href="https://www.aliexpress.com/item/32826851071.html?spm=a2g0s.9042311.0.0.27424c4dUBojcv">Aliexpress</a></p>
 <p>Here’s a pack with 40 pcs of 2600mAh 3.7V 18650 cells.</p>
-<p><a
-href="https://www.aliexpress.com/item/32795814865.html?spm=a2g0s.9042311.0.0.27424c4dUBojcv">Aliexpress</a></p>
-<h2 id="type-c-5v-2a-3.7v-li-ion-battery-charger-booster-module">Type-C
-5v 2A 3.7V Li-ion battery charger booster module</h2>
+<p><a href="https://www.aliexpress.com/item/32795814865.html?spm=a2g0s.9042311.0.0.27424c4dUBojcv">Aliexpress</a></p>
+<h2 id="type-c-5v-2a-3.7v-li-ion-battery-charger-booster-module">Type-C 5v 2A 3.7V Li-ion battery charger booster module</h2>
 <p>Price ~2€</p>
-<p>Enough juice in this booster charger to run teh pi 3b without
-dropping voltage.</p>
-<p><strong>Buy</strong> <a
-href="https://www.ebay.com/itm/Type-C-USB-5V-2A-3-7V-18650-Lithium-Li-ion-Battery-Charging-Board-Charger-Module/383717339632?var=652109038482">Ebay</a></p>
-<h2 id="x8x5mm-dip-4-silicone-switch-mute-silent-button">8x8x5MM DIP-4
-Silicone Switch Mute Silent button</h2>
+<p>Enough juice in this booster charger to run teh pi 3b without dropping voltage.</p>
+<p><strong>Buy</strong> <a href="https://www.ebay.com/itm/Type-C-USB-5V-2A-3-7V-18650-Lithium-Li-ion-Battery-Charging-Board-Charger-Module/383717339632?var=652109038482">Ebay</a></p>
+<h2 id="x8x5mm-dip-4-silicone-switch-mute-silent-button">8x8x5MM DIP-4 Silicone Switch Mute Silent button</h2>
 <p>Price ~2 eur/20 pcs</p>
-<p>You can only buy a pack of 20 pcs but these buttons are good and
-silent! Not necessary if you want to control with keyboard like Rii mini
-8+</p>
-<p><strong>Buy</strong> <a
-href="http://www.ebay.com/itm/151723036469?_trksid=p2057872.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT">Ebay</a>
-<a
-href="https://www.aliexpress.com/item/32777086031.html?spm=a2g0o.productlist.0.0.5cfc6136IYeRxe&amp;algo_pvid=f4209ce9-f7c5-47f1-8d98-6b0cd8affb32&amp;algo_expid=f4209ce9-f7c5-47f1-8d98-6b0cd8affb32-0&amp;btsid=7ceb3856-696f-4ddd-9858-84c295f67c48&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
-<h2 id="mcp23017-esp-dip-28-16-bit-i-o-expander-i2c">MCP23017-E/SP
-DIP-28 16 bit I / O expander I2C</h2>
+<p>You can only buy a pack of 20 pcs but these buttons are good and silent! Not necessary if you want to control with keyboard like Rii mini 8+</p>
+<p><strong>Buy</strong> <a href="http://www.ebay.com/itm/151723036469?_trksid=p2057872.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT">Ebay</a> <a href="https://www.aliexpress.com/item/32777086031.html?spm=a2g0o.productlist.0.0.5cfc6136IYeRxe&amp;algo_pvid=f4209ce9-f7c5-47f1-8d98-6b0cd8affb32&amp;algo_expid=f4209ce9-f7c5-47f1-8d98-6b0cd8affb32-0&amp;btsid=7ceb3856-696f-4ddd-9858-84c295f67c48&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
+<h2 id="mcp23017-esp-dip-28-16-bit-i-o-expander-i2c">MCP23017-E/SP DIP-28 16 bit I / O expander I2C</h2>
 <p>Price ~1 eur</p>
-<p>This will be connected to the screen I2C port. This is not necessary
-if you intend to control the camera with a keyboard like the Rii mini
-i8+</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/10PCS-MCP23017-E-SP-DIP-28-MCP23017-16-Bit-I-O-Expander-with-I2C-Interface-IC/32665631086.html?spm=a2g0s.9042311.0.0.27424c4dn4m008">Aliexpress</a></p>
+<p>This will be connected to the screen I2C port. This is not necessary if you intend to control the camera with a keyboard like the Rii mini i8+</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/10PCS-MCP23017-E-SP-DIP-28-MCP23017-16-Bit-I-O-Expander-with-I2C-Interface-IC/32665631086.html?spm=a2g0s.9042311.0.0.27424c4dn4m008">Aliexpress</a></p>
 <h2 id="piezo-electronic-buzzer">Piezo electronic buzzer</h2>
 <p>Price ~1 eur</p>
 <p>Very useful for timing shots!</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/store/product/New-Arrival-Durable-3-24V-Piezo-Electronic-Buzzer-Alarm-95DB-Continuous-Sound-Beeper-For-Arduino-Car/1959068_32666789405.html?spm=2114.search0204.3.1.4cef4057RBI3xn&amp;ws_ab_test=searchweb0_0,searchweb201602_3_10065_10068_10059_5015413_5015313_10696_100031_10084_10083_5016113_10103_451_10618_452_10304_10307_10820_10821_10302_5016013,searchweb201603_45,ppcSwitch_4_ppcChannel&amp;algo_expid=c84318cd-b50e-4370-9cad-6ae9bc7963ae-0&amp;algo_pvid=c84318cd-b50e-4370-9cad-6ae9bc7963ae&amp;priceBeautifyAB=0">Aliexpress</a></p>
-<h2 id="latching-push-button-switch-10mm">Latching push button switch
-10mm</h2>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/store/product/New-Arrival-Durable-3-24V-Piezo-Electronic-Buzzer-Alarm-95DB-Continuous-Sound-Beeper-For-Arduino-Car/1959068_32666789405.html?spm=2114.search0204.3.1.4cef4057RBI3xn&amp;ws_ab_test=searchweb0_0,searchweb201602_3_10065_10068_10059_5015413_5015313_10696_100031_10084_10083_5016113_10103_451_10618_452_10304_10307_10820_10821_10302_5016013,searchweb201603_45,ppcSwitch_4_ppcChannel&amp;algo_expid=c84318cd-b50e-4370-9cad-6ae9bc7963ae-0&amp;algo_pvid=c84318cd-b50e-4370-9cad-6ae9bc7963ae&amp;priceBeautifyAB=0">Aliexpress</a></p>
+<h2 id="latching-push-button-switch-10mm">Latching push button switch 10mm</h2>
 <p>Price ~5 eur/24 pcs</p>
-<p>I use this as the powerbutton. I have tried different versions of
-safe shutdown buttons for the Raspberry pi but they have not worked as I
-wanted (they draw power even when Pi is powered off, this is not good).
-I have solved the problem with a menu button to safely shut down the
-camera.</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/24pcs-latching-push-button-switch-10mm-fixed-pushbutton-switch-latching-maintained-push-buttons/32770346793.html?spm=a2g0s.9042311.0.0.27424c4ddFzv3i">Aliexpress</a></p>
+<p>I use this as the powerbutton. I have tried different versions of safe shutdown buttons for the Raspberry pi but they have not worked as I wanted (they draw power even when Pi is powered off, this is not good). I have solved the problem with a menu button to safely shut down the camera.</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/24pcs-latching-push-button-switch-10mm-fixed-pushbutton-switch-latching-maintained-push-buttons/32770346793.html?spm=a2g0s.9042311.0.0.27424c4ddFzv3i">Aliexpress</a></p>
 <h2 id="nut-14--20-unc-304-a2">Nut 1/4 -20 UNC 304 A2</h2>
 <p>Price ~2 eur/10 pcs</p>
-<p>This is the standard camera stand nuts. If you never use a stand then
-you dont need this.</p>
-<p><strong>Buy</strong> <a
-href="https://www.ebay.com/itm/1-4-20-UNC-304-A2-Stainless-Steel-Hex-Full-Nuts-Qty-10PCS-/222134363896?hash=item33b83d66f8">Ebay</a><br></p>
+<p>This is the standard camera stand nuts. If you never use a stand then you dont need this.</p>
+<p><strong>Buy</strong> <a href="https://www.ebay.com/itm/1-4-20-UNC-304-A2-Stainless-Steel-Hex-Full-Nuts-Qty-10PCS-/222134363896?hash=item33b83d66f8">Ebay</a><br></p>
 <h2 id="screws-m3x12mm">Screws M3x12mm</h2>
 <p>Price ~2 eur/25 pcs</p>
 <p>These hold the camera together.</p>
 <p><strong>Buy</strong> Your local harware store</p>
-<p><a
-href="https://www.ebay.com/itm/50X-Stainless-M1-6-M2-M3-M4-Countersunk-Flat-Head-Cross-Miniature-Screw-Bolts/392195849737?hash=item5b50b1be09:m:mGdurHGRlBzB-IIMJirP3Dw">Ebay</a></p>
+<p><a href="https://www.ebay.com/itm/50X-Stainless-M1-6-M2-M3-M4-Countersunk-Flat-Head-Cross-Miniature-Screw-Bolts/392195849737?hash=item5b50b1be09:m:mGdurHGRlBzB-IIMJirP3Dw">Ebay</a></p>
 <h2 id="screws-m3x30mm">Screws M3x30mm</h2>
 <p>Price ~2 eur/30 pcs</p>
 <p>These hold picamera-body to the body.</p>
-<p><strong>Buy</strong> <a
-href="https://www.ebay.com/itm/20-pcs-M3-Screw-Diameter-3mm-Length-30mm-M3x30-Stainless-Steel-DIY/181846978737?epid=886666073&amp;hash=item2a56ecb0b1:g:F1MAAOxyUylTSh9n">Ebay</a></p>
+<p><strong>Buy</strong> <a href="https://www.ebay.com/itm/20-pcs-M3-Screw-Diameter-3mm-Length-30mm-M3x30-Stainless-Steel-DIY/181846978737?epid=886666073&amp;hash=item2a56ecb0b1:g:F1MAAOxyUylTSh9n">Ebay</a></p>
 <h2 id="screws-2.2x9.5mm">Screws 2.2x9.5mm</h2>
 <p>Price ~1 eur/20 pcs</p>
 <p>These hold the camera/mic together.</p>
-<p><strong>Buy</strong> <a
-href="https://www.ebay.com/itm/M2-2x9-5mm-Stainless-Steel-Phillips-Round-Pan-Head-Self-Tapping-Screws-50pcs/391417337610?epid=1563431736&amp;hash=item5b224a970a:g:oC8AAOSwqDhbAlml">Ebay</a></p>
+<p><strong>Buy</strong> <a href="https://www.ebay.com/itm/M2-2x9-5mm-Stainless-Steel-Phillips-Round-Pan-Head-Self-Tapping-Screws-50pcs/391417337610?epid=1563431736&amp;hash=item5b224a970a:g:oC8AAOSwqDhbAlml">Ebay</a></p>
 <h2 id="rii-mini-i8-mini-keyboard">Rii mini i8+ mini keyboard</h2>
 <p>Price ~17 eur</p>
-<p>Wireless control over camera. You will also need this for wifi
-settings etc. (Recommended) This is one of the best mini keyboards I’ve
-tried.</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/Rii-mini-i8-Russian-English-Spanish-Hebrew-Version-Wireless-Backlit-Keyboard-with-Touchpad-for-PC-Smart/32450468690.html?spm=a2g0s.9042311.0.0.27424c4dKdqpVO">Aliexpress</a></p>
+<p>Wireless control over camera. You will also need this for wifi settings etc. (Recommended) This is one of the best mini keyboards I’ve tried.</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/Rii-mini-i8-Russian-English-Spanish-Hebrew-Version-Wireless-Backlit-Keyboard-with-Touchpad-for-PC-Smart/32450468690.html?spm=a2g0s.9042311.0.0.27424c4dKdqpVO">Aliexpress</a></p>
 <h2 id="external-usb3-ssd-hard-drive">External USB3 SSD hard-drive</h2>
 <p>Price ~50 eur</p>
 <p>It’s recommended to film to external drive.</p>
 <p>Parts grand total ~200 eur</p>
 <h1 id="optional-parts">Optional parts</h1>
 <h2 id="gonzopi-viewfinder">Gonzopi viewfinder</h2>
-<p>This is a 3.5 inch viewfinder for Gonzopi that you can 3d print and
-make by buying these three parts.</p>
+<p>This is a 3.5 inch viewfinder for Gonzopi that you can 3d print and make by buying these three parts.</p>
 <h2 id="lens-d42-f110mm">Lens D42 F110mm</h2>
 <p>Price ~10 eur</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/32958816619.html?spm=a2g0s.9042311.0.0.6fb54c4dGb4wI7">Aliexpress</a></p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/32958816619.html?spm=a2g0s.9042311.0.0.6fb54c4dGb4wI7">Aliexpress</a></p>
 <h2 id="rubber-eyepiece">Rubber Eyepiece</h2>
 <p>Price ~4 eur</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/32780859922.html?spm=a2g0s.9042311.0.0.27424c4dmVqriG">Aliexpress</a></p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/32780859922.html?spm=a2g0s.9042311.0.0.27424c4dmVqriG">Aliexpress</a></p>
 <h2 id="magnets-25mm-x-5mm-x-1.5mm">Magnets 25mm x 5mm x 1.5mm</h2>
 <p>Price ~3 eur 10 pcs</p>
-<p><strong>Buy</strong> <a
-href="https://www.aliexpress.com/item/32963277127.html?spm=a2g0s.9042311.0.0.27424c4dRc1vCZ">Aliexpress</a></p>
-<h1 id="d-printing">3d printing</h1>
-<p>While waiting for ordered parts lets 3d print the rest of the parts.
-I recommend printing with a solid 100% infill. Now it is pretty crucial
-that you have a good calibrated printer so that you don’t over/under
-print. Some parts need to be very precise to work.</p>
-<p>You’ll find all the 3d parts in a <a href="3d/gonzopi.blend">blender
-file</a> in the <a href="3d/">3d folder</a>.</p>
+<p><strong>Buy</strong> <a href="https://www.aliexpress.com/item/32963277127.html?spm=a2g0s.9042311.0.0.27424c4dRc1vCZ">Aliexpress</a></p>
+<h2 id="printing-the-printable-parts">Printing the printable parts</h2>
+<p>While waiting for ordered parts lets 3d print the rest of the parts. I recommend printing with a solid 100% infill. Now it is pretty crucial that you have a good calibrated printer so that you don’t over/under print. Some parts need to be very precise to work.</p>
+<p>You’ll find all the 3d parts in a <a href="3d/gonzopi.blend">blender file</a> in the <a href="3d/">3d folder</a>.</p>
 <p><a href="3d/gonzopi-body.stl">gonzopi-body.stl</a></p>
 <figure>
-<img src="3d/gonzopi-body.png" alt="body" />
-<figcaption aria-hidden="true">body</figcaption>
+<img src="3d/gonzopi-body.png" alt="" /><figcaption>body</figcaption>
 </figure>
-<p><a
-href="3d/gonzopi-button-plate-bottom.stl">gonzopi-button-plate-bottom.stl</a></p>
+<p><a href="3d/gonzopi-button-plate-bottom.stl">gonzopi-button-plate-bottom.stl</a></p>
 <figure>
-<img src="3d/gonzopi-button-plate-bottom.png"
-alt="gonzopi-button-plate-bottom" />
-<figcaption aria-hidden="true">gonzopi-button-plate-bottom</figcaption>
+<img src="3d/gonzopi-button-plate-bottom.png" alt="" /><figcaption>gonzopi-button-plate-bottom</figcaption>
 </figure>
-<p><a
-href="3d/gonzopi-button-plate-upper.stl">gonzopi-button-plate-upper</a></p>
+<p><a href="3d/gonzopi-button-plate-upper.stl">gonzopi-button-plate-upper</a></p>
 <figure>
-<img src="3d/gonzopi-button-plate-upper.png"
-alt="gonzopi-button-plate-upper" />
-<figcaption aria-hidden="true">gonzopi-button-plate-upper</figcaption>
+<img src="3d/gonzopi-button-plate-upper.png" alt="" /><figcaption>gonzopi-button-plate-upper</figcaption>
 </figure>
 <p><a href="3d/gonzopi-hdmi-cap.stl">gonzopi-hdmi-cap</a></p>
 <figure>
-<img src="3d/gonzopi-hdmi-cap.png" alt="gonzopi-hdmi-cap" />
-<figcaption aria-hidden="true">gonzopi-hdmi-cap</figcaption>
+<img src="3d/gonzopi-hdmi-cap.png" alt="" /><figcaption>gonzopi-hdmi-cap</figcaption>
 </figure>
 <p><a href="3d/gonzopi-left-side.stl">gonzopi-left-side</a></p>
 <figure>
-<img src="3d/gonzopi-left-side.png" alt="gonzopi-left-side" />
-<figcaption aria-hidden="true">gonzopi-left-side</figcaption>
+<img src="3d/gonzopi-left-side.png" alt="" /><figcaption>gonzopi-left-side</figcaption>
 </figure>
-<p><a
-href="3d/gonzopi-picamera-hq-body.stl">gonzopi-picamera-body</a></p>
+<p><a href="3d/gonzopi-picamera-hq-body.stl">gonzopi-picamera-body</a></p>
 <figure>
-<img src="3d/gonzopi-picamera-hq-body.png"
-alt="gonzopi-picamera-body" />
-<figcaption aria-hidden="true">gonzopi-picamera-body</figcaption>
+<img src="3d/gonzopi-picamera-hq-body.png" alt="" /><figcaption>gonzopi-picamera-body</figcaption>
 </figure>
 <p><a href="3d/gonzopi-right-side.stl">gonzopi-right-side</a></p>
 <figure>
-<img src="3d/gonzopi-right-side.png" alt="gonzopi-right-side" />
-<figcaption aria-hidden="true">gonzopi-right-side</figcaption>
+<img src="3d/gonzopi-right-side.png" alt="" /><figcaption>gonzopi-right-side</figcaption>
 </figure>
-<p><a
-href="3d/gonzopi-screen-lid-hyperpixel.stl">gonzopi-screen-lid</a></p>
+<p><a href="3d/gonzopi-screen-lid-hyperpixel.stl">gonzopi-screen-lid</a></p>
 <figure>
-<img src="3d/gonzopi-screen-lid-hyperpixel.png"
-alt="gonzopi-screen-lid" />
-<figcaption aria-hidden="true">gonzopi-screen-lid</figcaption>
+<img src="3d/gonzopi-screen-lid-hyperpixel.png" alt="" /><figcaption>gonzopi-screen-lid</figcaption>
 </figure>
 <h1 id="wiring">Wiring</h1>
 <figure>
-<img src="wiring.png" alt="Gonzopi wiring diagram" />
-<figcaption aria-hidden="true">Gonzopi wiring diagram</figcaption>
+<img src="wiring.png" alt="" /><figcaption>Gonzopi wiring diagram</figcaption>
 </figure>
 <figure>
-<img src="gonzopi-build_02.jpg"
-alt="dont use adafruit powerbooster! use Type-C 5v 2A 3.7V Li-ion battery charger booster module" />
-<figcaption aria-hidden="true">dont use adafruit powerbooster! use
-Type-C 5v 2A 3.7V Li-ion battery charger booster module</figcaption>
+<img src="gonzopi-build_02.jpg" alt="" /><figcaption>dont use adafruit powerbooster! use Type-C 5v 2A 3.7V Li-ion battery charger booster module</figcaption>
 </figure>
 <figure>
-<img src="gonzopi-build_03.jpg" alt="Fitting everything together" />
-<figcaption aria-hidden="true">Fitting everything together</figcaption>
+<img src="gonzopi-build_03.jpg" alt="" /><figcaption>Fitting everything together (very old Gonzo Pi version in this image but the methods are the same today!)</figcaption>
 </figure>
 <figure>
-<img src="gonzopi-build_04.jpg" alt="Gonzopi version 0.1" />
-<figcaption aria-hidden="true">Gonzopi version 0.1</figcaption>
+<img src="gonzopi-build_04.jpg" alt="" /><figcaption>Gonzopi version 0.1</figcaption>
 </figure>
 <h1 id="installing-software">Installing software</h1>
-<p>Download latest <a
-href="https://www.raspberrypi.org/downloads/raspbian/">Raspbian</a> and
-follow <a
-href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md">install
-instructions</a>. <a
-href="https://www.raspberrypi.org/documentation/remote-access/ssh/">Ssh
-into</a> Raspberry Pi and run:</p>
+<p>Download latest <a href="https://www.raspberrypi.org/downloads/raspbian/">Raspbian</a> and follow <a href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md">install instructions</a>. <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/">Ssh into</a> Raspberry Pi and run:</p>
 <p>Go to home folder</p>
 <pre><code>cd /home/pi</code></pre>
 <p>Install git</p>
@@ -443,32 +277,21 @@ sudo ./install.sh</code></pre>
 <pre><code>python3 gonzopi.py</code></pre>
 <p>Happy filming!</p>
 <figure>
-<img src="gonzopi-brothers.jpg"
-alt="Should be looking like this once finnished" />
-<figcaption aria-hidden="true">Should be looking like this once
-finnished</figcaption>
+<img src="gonzopi-brothers.jpg" alt="" /><figcaption>Should be looking like this once finnished</figcaption>
 </figure>
 <h1 id="tested-lenses">Tested lenses</h1>
 <p>Here is what I’m testing right now.</p>
 <h2 id="mm-3mp-f1.2-cs">2.8mm 3MP F1.2 CS</h2>
 <p>Price ~ 6 €</p>
-<p>This is a good wide all around lens. Recomended! <a
-href="https://www.aliexpress.com/item/32973023765.html?spm=a2g0o.productlist.0.0.4e9c3761rLgRE0&amp;algo_pvid=f9a62bbd-7981-48cb-a080-c39336b9f53f&amp;algo_expid=f9a62bbd-7981-48cb-a080-c39336b9f53f-1&amp;btsid=028c8b49-83e8-4c56-9b8b-6c32c36e65d9&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
+<p>This is a good wide all around lens. Recomended! <a href="https://www.aliexpress.com/item/32973023765.html?spm=a2g0o.productlist.0.0.4e9c3761rLgRE0&amp;algo_pvid=f9a62bbd-7981-48cb-a080-c39336b9f53f&amp;algo_expid=f9a62bbd-7981-48cb-a080-c39336b9f53f-1&amp;btsid=028c8b49-83e8-4c56-9b8b-6c32c36e65d9&amp;ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55">Aliexpress</a></p>
 <h2 id="mm-3mp-f1.2-cs-1">2.5mm 3MP F1.2 CS</h2>
 <p>Price ~ 6 €</p>
-<p>This is an even wider lens. Seems to be the same manufacterer. <a
-href="https://www.aliexpress.com/item/32970488708.html?spm=a2g0o.detail.1000023.1.782e6003A85K1u">Aliexpress</a></p>
-<h2
-id="yumiki-6-60mm-13-cs-lens-cctv-lens-ir-f1.6-manual-zoom-manual-iris">Yumiki
-6-60mm 1/3” CS Lens CCTV Lens IR F1.6 Manual Zoom Manual Iris</h2>
-<p><a
-href="https://www.aliexpress.com/item/6-60mm-1-3-CS-Lens-CCTV-Lens-IR-F1-6-Manual-Zoom-Manual-Iris-for/32793850795.html?spm=a2g0s.9042311.0.0.27424c4dmtk6IZ">Aliexpress</a></p>
-<h2 id="camera-lens-2.8-12mm-varifocal">Camera Lens 2.8-12mm
-Varifocal</h2>
-<p>This lens is good. Will write a longer review once I have more
-filming hours.</p>
-<p><a
-href="https://www.aliexpress.com/item/Megapixel-Fixed-Iris-HD-CCTV-Camera-Lens-2-8-12mm-Varifocal-HD-Security-Camera-Lens-Manual/32644427822.html?spm=a2g0s.9042311.0.0.27424c4dmtk6IZ">Aliexpress</a></p>
+<p>This is an even wider lens. Seems to be the same manufacterer. <a href="https://www.aliexpress.com/item/32970488708.html?spm=a2g0o.detail.1000023.1.782e6003A85K1u">Aliexpress</a></p>
+<h2 id="yumiki-6-60mm-13-cs-lens-cctv-lens-ir-f1.6-manual-zoom-manual-iris">Yumiki 6-60mm 1/3" CS Lens CCTV Lens IR F1.6 Manual Zoom Manual Iris</h2>
+<p><a href="https://www.aliexpress.com/item/6-60mm-1-3-CS-Lens-CCTV-Lens-IR-F1-6-Manual-Zoom-Manual-Iris-for/32793850795.html?spm=a2g0s.9042311.0.0.27424c4dmtk6IZ">Aliexpress</a></p>
+<h2 id="camera-lens-2.8-12mm-varifocal">Camera Lens 2.8-12mm Varifocal</h2>
+<p>This lens is good. Will write a longer review once I have more filming hours.</p>
+<p><a href="https://www.aliexpress.com/item/Megapixel-Fixed-Iris-HD-CCTV-Camera-Lens-2-8-12mm-Varifocal-HD-Security-Camera-Lens-Manual/32644427822.html?spm=a2g0s.9042311.0.0.27424c4dmtk6IZ">Aliexpress</a></p>
 <hr />
 </body>
 </html>

@@ -5,33 +5,54 @@
 
 ![Filming with Gonzopi](gonzopi_filming.jpeg)
 
-Gonzo Pi's philosophy
+The Gonzo Pi Philosophy: Filmmaking, Unchained
 --------------------------------
-The Gonzo Pi is an open-source camera and filmmaking platform built around a Raspberry Pi single-board computer, designed to capture and edit films in unique, hands-on way. It draws its name from gonzo journalism, a subjective, immersive style pioneered by Hunter S. Thompson, reflecting it's emphasis on raw, immediate, and personal filmmaking.
+The Gonzo Pi isn’t just a camera—it’s a rebellion against polished, overproduced filmmaking. Inspired by the raw, immersive chaos of gonzo journalism, pioneered by Hunter S. Thompson, this palm-sized, Raspberry Pi-powered beast is built for storytellers who want to dive headfirst into their world and come out with a film that’s as real as it gets. It’s not about perfection; it’s about truth, immediacy, and creativity unleashed.
 
 
+The Tree of Creation: Every Take Matters
+-----------------------------------------
+At the heart of it is its unique approach to organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for you scenes and films with only special files pointing to a new cut, dub or effects to be inserted. Simple yet so powerful that your camera becomes a studio. Every film you start becomes a root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes. Every edited take is preserved as its own file in this tree.
 
-Press view button while a scene is selected will glue all last takes of all shots in that scene together and play it. Press view while a film is selected will glue all scenes in that film together.
-
-And multitrack audio dubbing
+Freedom Through Open Source
 ----------------------------
-Pressing enter/middle button on a film, scene or shot will take you to a multitrack dub settings menu. Here you can press record to begin a new audio dub track, you can have as many dub tracks as you need. Next time you view your shot, scene or film it will be mixed in.
+The Gonzo Pi is open-source because creativity shouldn’t be locked behind proprietary walls. Its 3D-printed body, Raspberry Pi core, and customizable software invite you to hack, mod, and make it your own. Want to mount it on a drone? Make it waterproof? Add a bizarre lens from a 1970s thrift shop? Go for it. The Gonzo Pi is a canvas for your imagination, not a walled garden.
+
+Who’s This For?
+---------------
+You. The dreamer, the tinkerer, the storyteller who doesn’t need a Hollywood budget to make something real. Whether you’re a coder rigging multi-camera setups or a newbie just pointing and shooting, the Gonzo Pi meets you where you are. It’s for anyone who believes a story is worth telling, no matter how raw or unpolished.
+
+In the spirit of gonzo, the Gonzo Pi dares you to grab it, run into the chaos, and come back with a film that’s unmistakably yours. 
+
+Technical Section: Getting Started with the Gonzo Pi
+----------------------------------------------------
+Now that you’re pumped about the Gonzo Pi’s vibe, let’s get it up and running. This section covers the basics of setting up your hardware, installing the software, and understanding the film/scene/shot/take tree that makes the Gonzo Pi so intuitive. No tech degree required—just a bit of curiosity and a love for filmmaking.
+
+Hardware Setup
+--------------
+The Gonzo Pi is a compact, customizable filmmaking machine. Here’s what you’ll need to build one:
+
+- Raspberry Pi 4B: The brain of the operation. (A 3B+ or 3B works too, but 4B is the standard.)
+- Sony IMX Camera Sensor (12.3MP): Captures crisp, vibrant footage.
+- C-Mount and CS-Mount Lenses: Pick a lens for your style—vintage, wide-angle, or quirky. C-mount adapters are widely available.
+- 3D-Printed Body: Download the STL files from gonzopi.org and print the case. It’s designed for easy assembly and modding.
+- MicroSD Card and an External USB3 SSD Hard-Drive: SD card is for the brainz and the External Hard-Drive is for storing your films.
+- Power Source: 7800mAh li-ion Battery pack (5-6h of filming)
+- Optional Add-Ons: HDMI display for a bigger view, USB sound card for better audio, or a viewfinder for precision.
+
+So how does it work in detail?
+-----------------------------
+Let's start with how to control it.
 
 ![Gonzopi UI](gonzopi-gui.jpeg)
 
 Control the GonzoPi with a keyboard or through the network or with physical buttons; Enter, Up, Down, Left, Right, Record, Retake, View and Remove.
 
-Retake
--------
-After recording, press record to make next shot or press retake and you'll be filming a new take, the last take in a shot is chosen when viewing a scene or the whole film.
-Hint! pressing record while browsing existing takes, shots and scenes will take you to the last shot in that scene. Pressing retake will do just that, a retake. Makes perfectly sense, right? Fiddle around with it, you'll totally get it.
-
-\break
-
 Keys
 ====
 
-### Buttons
+![Gonzopi UI](gonzopi-buttons.jpeg)
+
 ![Buttons](buttons.png)
 
 ![View Buttons](view-buttons.png)
@@ -61,7 +82,23 @@ Tab = View
 
 A = Hide / Show Menu
 
-![Gonzo Mode](gonzopi_gonzomode.jpeg)
+\break
+
+How to make a film from many takes?
+------------------------------------
+
+It's very simple and intuitive. Press view button while a scene is selected will glue all last takes of all shots in that scene together and play it. Press view while a film is selected will glue all scenes in that film together.
+
+And multitrack audio dubbing
+----------------------------
+Pressing enter/middle button on a film, scene or shot will take you to a multitrack dub settings menu. Here you can press record to begin a new audio dub track, you can have as many dub tracks as you need. Next time you view your shot, scene or film it will be mixed in.
+
+Retake
+-------
+After recording, press record to make next shot or press retake and you'll be filming a new take, the last take in a shot is chosen when viewing a scene or the whole film.
+Hint! pressing record while browsing existing takes, shots and scenes will take you to the last shot in that scene. Pressing retake will do just that, a retake. Makes perfectly sense, right? Fiddle around with it, you'll totally get it.
+
+\break
 
 Menus
 =====
@@ -102,24 +139,30 @@ It's good to always backup your stuff! Plug in your usb drive and just press ent
 ### Load and new
 You can have many on going films, load em up or start as many films as you like.
 
+### Multi-camera
+Press middle button on SRV: to view multicamera options
+
+### Blending
+Copy a take and choose what take to blend with and hit middle button on BLEND:
+
+
 ------------------------------
 
-### [Building, repairing & modding]
-1. [Get the parts](#get-the-parts)
-2. [3d printing](#3d-printing)
-3. [Post processing](#post-processing)
-4. [Wiring](#wiring)
-5. [Putting it together](#putting-it-together)
-6. [Installing software](#installing-software)
-7. [Tested lenses](#tested-lenses)
+\break
+
 
 Building, repairing and modding
 ===============================
+1. [Get the parts](#get-the-parts)
+2. [Printing the printable parts](#printing-the-printable-parts)
+3. [Wiring](#wiring)
+4. [Installing software](#installing-software)
+5. [Tested lenses](#tested-lenses)
 
 Get the parts
 --------------
 
-![Gonzopi parts layed out](gonzopi-build_01.jpg)
+![Gonzopi parts layed out (this is a very old Gonzo Pi version)](gonzopi-build_01.jpg)
 
 Here is a list of parts that are recommended, there are other parts that probably will work but requires some hacking.
 
@@ -335,8 +378,8 @@ Price ~3 eur 10 pcs
 [Aliexpress](https://www.aliexpress.com/item/32963277127.html?spm=a2g0s.9042311.0.0.27424c4dRc1vCZ)
 
 
-3d printing
-===========
+Printing the printable parts
+----------------------------
 
 While waiting for ordered parts lets 3d print the rest of the parts. I recommend printing with a solid 100% infill. Now it is pretty crucial that you have a good calibrated printer so that you don't over/under print. Some parts need to be very precise to work.
 
@@ -381,7 +424,7 @@ Wiring
 
 ![dont use adafruit powerbooster! use Type-C 5v 2A 3.7V Li-ion battery charger booster module](gonzopi-build_02.jpg)
 
-![Fitting everything together](gonzopi-build_03.jpg)
+![Fitting everything together (very old Gonzo Pi version in this image but the methods are the same today!)](gonzopi-build_03.jpg)
 
 ![Gonzopi version 0.1](gonzopi-build_04.jpg)
 
