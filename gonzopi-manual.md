@@ -1,18 +1,11 @@
 
-![](gonzopi-logo.png)
-
-<br>
-
-![Filming with Gonzopi](gonzopi_filming.jpeg)
-
 The Gonzo Pi Philosophy: Filmmaking, Unchained
 --------------------------------
-The Gonzo Pi isn’t just a camera—it’s a rebellion against polished, overproduced filmmaking. Inspired by the raw, immersive chaos of gonzo journalism, pioneered by Hunter S. Thompson, this palm-sized, Raspberry Pi-powered beast is built for storytellers who want to dive headfirst into their world and come out with a film that’s as real as it gets. It’s not about perfection; it’s about truth, immediacy, and creativity unleashed.
-
+The Gonzo Pi isn’t just a camera—it’s a palm-sized, Raspberry Pi-powered beast built for storytellers who want to dive headfirst into their world and come out with a film that’s as real as it gets. It’s not about perfection; it’s about truth, immediacy, and creativity unleashed.
 
 The Tree of Creation: Every Take Matters
 -----------------------------------------
-At the heart of it is its unique approach to organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for you scenes and films with only special files pointing to a new cut, dub or effects to be inserted. Simple yet so powerful that your camera becomes a studio. Every film you start becomes a root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes. Every edited take is preserved as its own file in this tree.
+At the heart of Gonzo Pi is it's unique approach organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for your scenes and films. Simple yet so powerful that your camera becomes your studio. Every film you start is a new root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes with eventual cut and effect pointers. Every edited take becomes a new take and every removed take is in a specifik folder named yourfilm_onthefloor. Removing takes from this specifik folder is like sweeping the floor and your takes are permanently removed.
 
 Freedom Through Open Source
 ----------------------------
@@ -123,18 +116,15 @@ If you go gonzo, flippin it is the way to go! beep is a countdown timer from the
 Control teh level of your mic and headphones. Comp is a basic compressor so your message comes across and we hear ya! it's quite harsh at the moment but I like it when it goes craking up abit like in the good old 70s cinema.
 
 ### Timelapse
-Do a timelapse when you need to tell about time. There's an under menu here where you can choose the intervall of the takes, now this isn't really a traditional timelapse, it will instead do a 0.2 sec video at each intervall or it can be set to your likings but 0.2 is good for a traditional timelapse effect. At the bottom of the screen is a calculation of how long the clip will be if you do the timelapse for an hour. I'd say don't over do it! a 10 - 20 sec clip is already quite a stretch but its up to you, you're the movie film director.
+(this is not picture timelapse this is video timelapse, working on picture timelapse) Press middle button on TIMELAPSE and you'll be in timelapse menu here you can choose the intervall of the takes, now this isn't really a traditional timelapse, it will instead do a 0.2 sec video at each intervall or it can be set to your likings but 0.2 is good for a traditional timelapse effect. At the bottom of the screen is a calculation of how long the clip will be if you do the timelapse for an hour. I'd say don't over do it! a 10 - 20 sec clip is already quite a stretch but its up to you, you're the movie film director.
 
 ### Dsk, shutdown, srv, wifi
-Disk space, showing you how much of space left on your sd card. Shutdown, when your really done! it's good to do this before cutting the power or otherwise there's a small chance of sd card corruption. Srv is a network server, if your connected to a network and put this on you should be able to go to any browser on any device and watch your movie films (that is if you've rendered them first), just go to http://gonzopi.local or it might be that you have to know the ip address of your gonzopi (you'll find it when you've connected it. Press enter on wifi. There it is on the bottom of the screen, looks like this 192.168.1.105). If you press enter on wifi you will be transported to a glorious program called Wicd curses, here you really need to have a keyboard to set up your connections. Hints are down on the screen what buttons to press. To get back into Gonzopi press "q".
+Disk space, showing you how much of space left on your sd card. Shutdown, when your really done! it's good to do this before cutting the power or otherwise there's a small chance of sd card corruption. Srv is a network server, if your connected to a network and put this on you should be able to go to any browser on any device and watch your movie films (that is if you've rendered them first), just go to the ip address of your gonzopi (move around the cursor to get updated ip, you'll find it when you've connected it. Press enter on wifi. There it is on the bottom of the screen, looks like this 192.168.1.105). If you press enter on wifi you will be transported to a glorious program called Wicd curses, here you really need to have a keyboard to set up your connections. Hints are down on the screen what buttons to press. To get back into Gonzopi press "q".
 
 ### Update and upload
 Update the camera to the most exclusive version, this is still pretty much a-work-in-progress and as a warnign expect some bugs! don't worry I'll be improving things but it takes time. Upload your film to the web, there is a youtube uploader mod you can install but you'll have to do some configs to make it work for you. Details coming soon. Reach out to the matrix room if you're in a hurry..
 
 to get the youtube api secrets `wget https://gonzopi.org/yt/.client_secrets.json`
-
-### Backup
-It's good to always backup your stuff! Plug in your usb drive and just press enter and sit back and relax as the wonderful work of computer copying does the magic. While you're at it open a beer cuz it can take quite a while if you got much stuff on there. Now, this should be working on almost all hard drives but there are some that still use a very old file system called fat, and its as lazy as its given name and doesnt store critical information we would want, because we want the copying to only copy our new takes or retakes. So please use new drives like ntfs systems or ext or whatever they all are called. You'll find all your takes even the shitty ones on your harddrive in a directory called /gonzopifilms/. One more thing, there are some drives that are very power hungry and doesnt come with it's own power source, now these drives are very bad for this particular use because the Gonzopi has limited amounts of power for usb use, so to be sure it's gonna work, use powered hard drives that has got a power cord.
 
 ### Load and new
 You can have many on going films, load em up or start as many films as you like.
