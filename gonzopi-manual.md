@@ -5,7 +5,7 @@ The Gonzo Pi isn’t just a camera—it’s a palm-sized, Raspberry Pi-powered b
 
 The Tree of Creation: Every Take Matters
 -----------------------------------------
-At the heart of Gonzo Pi is it's unique approach organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for your scenes and films. Simple yet so powerful that your camera becomes your studio. Every film you start is a new root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes with eventual cut and effect pointers. Every edited take becomes a new take and every removed take is in a specifik folder named yourfilm_onthefloor. Removing takes from this specifik folder is like sweeping the floor and your takes are permanently removed.
+At the heart of Gonzo Pi is it's unique approach organizing your work: the film/scene/shot tree directory structure. Think of it as a blueprint for your scenes and films. Simple yet so powerful that your camera becomes your studio. Every film you start is a new root folder. Within it, scenes and shots branch out as subfolders, and each shot holds your raw takes with eventual cut and effect pointers. Every edited take becomes a new take and every removed take is placed in a new root folder named yourfilm_onthefloor. Removing something from this folder is like sweeping the floor and your takes are permanently removed.
 
 Freedom Through Open Source
 ----------------------------
