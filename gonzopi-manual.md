@@ -13,7 +13,7 @@ The Gonzo Pi is open-source because creativity shouldn’t be locked behind prop
 
 Who’s This For?
 ---------------
-You. The dreamer, the tinkerer, the storyteller who doesn’t need a Hollywood budget to make something real. Whether you’re a coder rigging multi-camera setups or a newbie just pointing and shooting, the Gonzo Pi meets you where you are. It’s for anyone who believes a story is worth telling, no matter how raw or unpolished.
+You. The dreamer, the tinkerer, the storyteller who doesn’t need a big budget to make something real. Whether you’re a coder rigging multi-camera setups or a newbie just pointing and shooting, the Gonzo Pi meets you where you are. It’s for anyone who believes a story is worth telling, no matter how raw or unpolished.
 
 In the spirit of gonzo, the Gonzo Pi dares you to grab it, run into the chaos, and come back with a film that’s unmistakably yours. 
 
