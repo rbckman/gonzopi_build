@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="41.400002mm"
    height="45.099998mm"
    viewBox="0 0 41.400002 45.099998"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="gonzopi-buttons-func-button-pressed.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-filename="/home/rbckman/gonzopi_build/decals/gonzopi-buttons-func-button-pressed.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="19.445437"
-     inkscape:cy="100.76272"
+     inkscape:cx="-61.34631"
+     inkscape:cy="74.054081"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="mm"
      inkscape:showpageshadow="2"
@@ -79,13 +82,6 @@
        height="45.069149"
        x="-0.089321136"
        y="0.043870363" />
-    <rect
-       style="opacity:0.703936;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.166;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2362"
-       width="41.406956"
-       height="45.069149"
-       x="-0.089321136"
-       y="0.043870363" />
   </g>
   <path
      style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -105,13 +101,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.04217px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.175509"
-       x="26.222006"
-       y="12.107044"
+       x="26.258627"
+       y="25.582819"
        id="text2028"><tspan
          sodipodi:role="line"
          id="tspan2026"
-         x="26.222006"
-         y="12.107044"
+         x="26.258627"
+         y="25.582819"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.04217px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.175509">MENU</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.239263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -121,13 +117,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.18921px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1263"
-       x="2.1517258"
-       y="11.160013"
+       x="2.5922246"
+       y="25.564152"
        id="text2137"><tspan
          sodipodi:role="line"
          id="tspan2135"
-         x="2.1517258"
-         y="11.160013"
+         x="2.5922246"
+         y="25.564152"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18921px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.1263">SCREEN</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.238539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -137,13 +133,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.20064px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12696"
-       x="26.028234"
-       y="25.675678"
+       x="26.482241"
+       y="11.733295"
        id="text2223"><tspan
          sodipodi:role="line"
          id="tspan2221"
-         x="26.028234"
-         y="25.675678"
+         x="26.482241"
+         y="11.733295"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20064px;line-height:1.05;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.12696">INSERT</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.225506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -153,13 +149,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.80067px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161577"
-       x="3.0334511"
-       y="25.564972"
+       x="2.57845"
+       y="11.781336"
        id="text2242"><tspan
          sodipodi:role="line"
          id="tspan2240"
-         x="3.0334511"
-         y="25.564972"
+         x="2.57845"
+         y="11.781336"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80067px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.161577">COPY</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.227521px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -231,36 +227,92 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.19515px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126643"
-       x="30.36628"
-       y="38.437225"
+       x="24.784983"
+       y="43.712292"
        id="text3518"><tspan
          sodipodi:role="line"
-         x="30.36628"
-         y="38.437225"
+         x="24.784983"
+         y="43.712292"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19515px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.126643"
          id="tspan3520">PRESSED</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.94351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.227509"
-       x="30.216143"
-       y="41.627052"
-       id="text3526"><tspan
+       style="font-style:normal;font-weight:normal;font-size:2.33993px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.134996"
+       x="15.444073"
+       y="12.910927"
+       id="text2242-3"><tspan
          sodipodi:role="line"
-         x="30.216143"
-         y="41.627052"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94351px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.227509"
-         id="tspan3524">FUNC</tspan></text>
+         id="tspan2240-6"
+         x="15.444073"
+         y="12.910927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33993px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.134996">MOVE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.19515px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126643"
-       x="30.431835"
-       y="43.579418"
-       id="text3518-2"><tspan
+       style="font-style:normal;font-weight:normal;font-size:2.33993px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.134996"
+       x="15.394552"
+       y="24.689997"
+       id="text2242-3-7"><tspan
          sodipodi:role="line"
-         x="30.431835"
-         y="43.579418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19515px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.126643"
-         id="tspan3520-9">BUTTONS</tspan></text>
+         id="tspan2240-6-5"
+         x="15.394552"
+         y="24.689997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33993px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.134996">PEAK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.33993px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.134996"
+       x="14.776632"
+       y="-11.501604"
+       id="text2242-3-7-3"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         x="14.776632"
+         y="-11.501604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33993px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.134996"
+         id="tspan1042">MODE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.34483px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0586208"
+       x="11.438142"
+       y="43.766193"
+       id="text1088"><tspan
+         sodipodi:role="line"
+         id="tspan1086"
+         x="11.438142"
+         y="43.766193"
+         style="stroke-width:0.0586208">IF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.40762px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0351906"
+       x="22.867796"
+       y="43.419483"
+       id="text1092"><tspan
+         sodipodi:role="line"
+         id="tspan1090"
+         x="22.867796"
+         y="43.419483"
+         style="stroke-width:0.0351906">IS</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.775806,17.818061 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.873436,6.686683 -4.873436,6.686683"
+       id="path2415"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.719549,22.221239 c 3.012762,4.594306 4.010831,5.666345 1.965962,8.683774 -2.044868,3.017429 -3.046382,4.227608 -3.046382,4.227608"
+       id="path2329"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.01233px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116096"
+       id="text2333"
+       y="37.471809"
+       x="-14.009919"
+       transform="rotate(-51.342344)"><tspan
+         sodipodi:role="line"
+         x="-14.009919"
+         y="37.471809"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.01233px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke-width:0.116096"
+         id="tspan2337">HELP</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -323,7 +375,7 @@
        cy="28.596603"
        r="2.0125549" />
     <circle
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.466;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.940485"
+       style="opacity:1;fill:#008000;stroke:none;stroke-width:2.466;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.940485"
        id="path2273"
        cx="17.952196"
        cy="38.051674"

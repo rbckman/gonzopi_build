@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="41.400002mm"
    height="45.099998mm"
    viewBox="0 0 41.400002 45.099998"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="gonzopi-buttons-bw.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-filename="/home/rbckman/gonzopi_build/decals/gonzopi-buttons-bw.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="63.639611"
-     inkscape:cy="61.164737"
+     inkscape:cx="-75.306873"
+     inkscape:cy="75.306873"
      inkscape:document-units="mm"
      inkscape:current-layer="g2035"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="mm"
      inkscape:showpageshadow="2"
@@ -48,6 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,13 +82,6 @@
        height="45.069149"
        x="-0.089321136"
        y="0.043870363" />
-    <rect
-       style="opacity:0.703936;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.166;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2362"
-       width="41.406956"
-       height="45.069149"
-       x="-0.089321136"
-       y="0.043870363" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -93,15 +90,15 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.04217px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.175509"
-       x="26.222006"
-       y="12.107044"
+       style="font-style:normal;font-weight:normal;font-size:2.19821px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126819"
+       x="26.280935"
+       y="11.480668"
        id="text2028"><tspan
          sodipodi:role="line"
          id="tspan2026"
-         x="26.222006"
-         y="12.107044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.04217px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.175509">RECORD</tspan></text>
+         x="26.280935"
+         y="11.480668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19821px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.126819">RECORD</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.239263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 26.443996,9.6508741 h 7.723306 V 5.260726 c 0,-3.1528945 -7.725683,-2.9453644 -7.724729,0 z"
@@ -110,13 +107,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.18921px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1263"
-       x="2.1517258"
-       y="11.160013"
+       x="2.6588314"
+       y="25.527336"
        id="text2137"><tspan
          sodipodi:role="line"
          id="tspan2135"
-         x="2.1517258"
-         y="11.160013"
+         x="2.6588314"
+         y="25.527336"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18921px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.1263">REMOVE</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.238539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -135,15 +132,15 @@
        sodipodi:nodetypes="ccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.89761px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.167169"
-       x="25.959099"
+       style="font-style:normal;font-weight:normal;font-size:2.18736px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126193"
+       x="26.008692"
        y="25.49552"
        id="text2223"><tspan
          sodipodi:role="line"
          id="tspan2221"
-         x="25.959099"
+         x="26.008692"
          y="25.49552"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.89761px;line-height:1.05;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.167169">RETAKE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18736px;line-height:1.05;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.126193">RETAKE</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.225506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 33.721203,25.908175 h -7.606219 v 3.959857 c 0,2.84387 7.60856,2.65668 7.60762,0 z"
@@ -152,13 +149,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.80067px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161577"
-       x="3.0334511"
-       y="25.564972"
+       x="2.5381639"
+       y="11.802216"
        id="text2242"><tspan
          sodipodi:role="line"
          id="tspan2240"
-         x="3.0334511"
-         y="25.564972"
+         x="2.5381639"
+         y="11.802216"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80067px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.161577">VIEW</tspan></text>
     <path
        style="fill:#000000;stroke:none;stroke-width:0.227521px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -182,25 +179,25 @@
        id="path2225-5"
        sodipodi:nodetypes="ccssc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 18.574855,17.937319 c 3.012762,4.594306 6.892042,10.162158 4.847173,13.179587 -2.044868,3.017429 -4.645913,6.074471 -4.645913,6.074471"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.716142,17.553026 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.873436,6.686683 -4.873436,6.686683"
        id="path2415"
        sodipodi:nodetypes="czc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.456066,22.433132 c 3.012762,4.594306 4.010831,5.666345 1.965962,8.683774 -2.044868,3.017429 -3.046382,4.227608 -3.046382,4.227608"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.659885,21.956204 c 3.012762,4.594306 4.010831,5.666345 1.965962,8.683774 -2.044868,3.017429 -3.046382,4.227608 -3.046382,4.227608"
        id="path2329"
        sodipodi:nodetypes="czc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.01233px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116096"
+       style="font-style:normal;font-weight:normal;font-size:2.01233px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116096"
        id="text2333"
-       y="37.398422"
-       x="-14.339973"
+       y="37.259659"
+       x="-13.840226"
        transform="rotate(-51.342344)"><tspan
          sodipodi:role="line"
-         x="-14.339973"
-         y="37.398422"
+         x="-13.840226"
+         y="37.259659"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.01233px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke-width:0.116096"
          id="tspan2337">HELP</tspan></text>
   </g>
