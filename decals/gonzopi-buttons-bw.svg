@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-75.306873"
-     inkscape:cy="75.306873"
+     inkscape:zoom="3.2459895"
+     inkscape:cx="17.007554"
+     inkscape:cy="104.12286"
      inkscape:document-units="mm"
      inkscape:current-layer="g2035"
      inkscape:document-rotation="0"
@@ -165,39 +165,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.37077px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194467"
-       x="14.106464"
-       y="43.580029"
+       x="9.3106718"
+       y="43.727695"
        id="text2277"><tspan
          sodipodi:role="line"
          id="tspan2275"
-         x="14.106464"
-         y="43.580029"
+         x="9.3106718"
+         y="43.727695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37077px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.194467">FUNC</tspan></text>
     <path
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.225506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.276576,40.804832 h 7.606218 v -3.959857 c 0,-2.84387 -7.608559,-2.65668 -7.607619,0 z"
+       d="m 9.4807832,40.952498 h 7.6062178 v -3.959857 c 0,-2.84387 -7.6085588,-2.65668 -7.6076188,0 z"
        id="path2225-5"
        sodipodi:nodetypes="ccssc" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 18.716142,17.553026 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.873436,6.686683 -4.873436,6.686683"
+       d="m 18.716142,17.553026 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.855108,5.488132 -4.855108,5.488132 l -5.551714,2.631162"
        id="path2415"
        sodipodi:nodetypes="czc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.659885,21.956204 c 3.012762,4.594306 4.010831,5.666345 1.965962,8.683774 -2.044868,3.017429 -3.046382,4.227608 -3.046382,4.227608"
+       d="m 21.659885,21.956204 c 3.012762,4.594306 2.597858,7.577412 1.965962,8.683774 -0.631896,1.106362 -2.49534,3.435154 -3.489224,4.327247 -0.993884,0.892093 -3.121531,1.722652 -3.121531,1.722652"
        id="path2329"
-       sodipodi:nodetypes="czc" />
+       sodipodi:nodetypes="czzc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.01233px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116096"
        id="text2333"
-       y="37.259659"
-       x="-13.840226"
+       y="37.200142"
+       x="-14.712479"
        transform="rotate(-51.342344)"><tspan
          sodipodi:role="line"
-         x="-13.840226"
-         y="37.259659"
+         x="-14.712479"
+         y="37.200142"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.01233px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke-width:0.116096"
          id="tspan2337">HELP</tspan></text>
   </g>
@@ -264,8 +264,8 @@
     <circle
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.466;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.940485"
        id="path2273"
-       cx="18.111773"
-       cy="38.069923"
+       cx="13.31598"
+       cy="38.21759"
        r="2.0624144" />
   </g>
 </svg>

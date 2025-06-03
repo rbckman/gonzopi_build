@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-61.34631"
-     inkscape:cy="74.054081"
+     inkscape:zoom="3.2459895"
+     inkscape:cx="162.07555"
+     inkscape:cy="130.59253"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g2035"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -164,22 +164,6 @@
        sodipodi:nodetypes="ccssc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.37077px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194467"
-       x="14.227522"
-       y="43.935955"
-       id="text2277"><tspan
-         sodipodi:role="line"
-         id="tspan2275"
-         x="14.227522"
-         y="43.935955"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37077px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.194467">FUNC</tspan></text>
-    <path
-       style="display:inline;fill:#000000;stroke:none;stroke-width:0.225506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.397634,41.160759 h 7.606218 v -3.959857 c 0,-2.84387 -7.608559,-2.65668 -7.607619,0 z"
-       id="path2225-5"
-       sodipodi:nodetypes="ccssc" />
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.55284px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.147279"
        x="14.930725"
        y="12.394372"
@@ -227,12 +211,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.19515px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126643"
-       x="24.784983"
-       y="43.712292"
+       x="19.842987"
+       y="43.496407"
        id="text3518"><tspan
          sodipodi:role="line"
-         x="24.784983"
-         y="43.712292"
+         x="19.842987"
+         y="43.496407"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19515px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.126643"
          id="tspan3520">PRESSED</tspan></text>
     <text
@@ -272,47 +256,69 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.34483px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0586208"
-       x="11.438142"
-       y="43.766193"
+       x="7.1320658"
+       y="43.725368"
        id="text1088"><tspan
          sodipodi:role="line"
          id="tspan1086"
-         x="11.438142"
-         y="43.766193"
+         x="7.1320658"
+         y="43.725368"
          style="stroke-width:0.0586208">IF</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.40762px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0351906"
-       x="22.867796"
-       y="43.419483"
+       x="17.9258"
+       y="43.203598"
        id="text1092"><tspan
          sodipodi:role="line"
          id="tspan1090"
-         x="22.867796"
-         y="43.419483"
+         x="17.9258"
+         y="43.203598"
          style="stroke-width:0.0351906">IS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37077px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194467"
+       x="9.5657845"
+       y="43.965939"
+       id="text2277-3"><tspan
+         sodipodi:role="line"
+         id="tspan2275-6"
+         x="9.5657845"
+         y="43.965939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37077px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.194467">FUNC</tspan></text>
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.225506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.7358957,41.190741 h 7.6062183 v -3.959857 c 0,-2.84387 -7.6085593,-2.65668 -7.6076193,0 z"
+       id="path2225-5"
+       sodipodi:nodetypes="ccssc" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 18.775806,17.818061 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.873436,6.686683 -4.873436,6.686683"
+       d="m 18.971255,17.791269 c 2.987358,5.223529 7.914252,9.404439 5.376955,12.594948 -2.537297,3.190509 -4.855108,5.488132 -4.855108,5.488132 l -5.551714,2.631162"
        id="path2415"
        sodipodi:nodetypes="czc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.719549,22.221239 c 3.012762,4.594306 4.010831,5.666345 1.965962,8.683774 -2.044868,3.017429 -3.046382,4.227608 -3.046382,4.227608"
+       d="m 21.914998,22.194447 c 3.012762,4.594306 2.597858,7.577412 1.965962,8.683774 -0.631896,1.106362 -2.49534,3.435154 -3.489224,4.327247 -0.993884,0.892093 -3.121531,1.722652 -3.121531,1.722652"
        id="path2329"
-       sodipodi:nodetypes="czc" />
+       sodipodi:nodetypes="czzc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.01233px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116096"
        id="text2333"
-       y="37.471809"
-       x="-14.009919"
+       y="37.54818"
+       x="-14.739161"
        transform="rotate(-51.342344)"><tspan
          sodipodi:role="line"
-         x="-14.009919"
-         y="37.471809"
+         x="-14.739161"
+         y="37.54818"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.01233px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke-width:0.116096"
          id="tspan2337">HELP</tspan></text>
+    <circle
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:2.466;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.940485"
+       id="path2273"
+       cx="13.571093"
+       cy="38.455833"
+       r="2.0624144" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -374,11 +380,5 @@
        cx="29.763147"
        cy="28.596603"
        r="2.0125549" />
-    <circle
-       style="opacity:1;fill:#008000;stroke:none;stroke-width:2.466;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.940485"
-       id="path2273"
-       cx="17.952196"
-       cy="38.051674"
-       r="2.0624144" />
   </g>
 </svg>
