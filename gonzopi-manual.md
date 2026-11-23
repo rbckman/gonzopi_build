@@ -184,10 +184,17 @@ The heart of Gonzopi. Why Raspberry pi you ask? There are several reasons:
 ---------------------
 Price ~10 eur
 
-This is a good performance card.
+This is a good performance card. Now you should get two cards at least one for the brain, this don't need to be so big, like 8 Gb is just fine for the Gonzo Pi brainz.
 
 [Aliexpress](https://www.aliexpress.com/item/32676225311.html?spm=a2g0o.productlist.0.0.11ed1b664kPdEf&algo_pvid=d9155fff-7ddc-47bb-9512-f7e686fe69ac&algo_expid=d9155fff-7ddc-47bb-9512-f7e686fe69ac-0&btsid=e2f36205-1c37-47bc-9a94-c006837f0992&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_55)
 
+USB 3.0 Adapter MINI Portable Card Reader MICRO SDXC
+-----------------------------------------
+Price ~8 eur
+
+This is the best thing that happend for the Gonzo Pi, no more dropped frames. With this USB3 card writer you get to film with 25Mb/s this way your footage will always look crispy and great. Also you can just carry a bunch of sdcards with you, so you will never run outta film medium.
+
+[Aliexpress](https://www.aliexpress.com/item/1005006328459181.html?src=bing&exp_tag=pcgcp&albch=shopping&acnt=135107044&albcp=555861336&albag=1302922588132919&slnk=&trgt=pla-2333232394153270&plac=&crea=81432727840498&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_FI_PMAX_ALL_maxvalue_20260814_purchase%E4%BA%8B%E4%BB%B6_AEsupply&utm_content=AssetGroup_052726_102713&utm_term=USB3+micro+sd+card&msclkid=ec940d67d191193955b2666373f285ae&aff_fcid=41e762b5c68f4150a70a932cda54ba78-1795465838234-03619-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=41e762b5c68f4150a70a932cda54ba78-1795465838234-03619-UneMJZVf&terminal_id=72f6fa3eee344260bd019c96fb9a6f58&afSmartRedirect=n)
 
 Raspberry Pi High Quality Camera
 ----------------------------------------------
