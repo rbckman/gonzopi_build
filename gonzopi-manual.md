@@ -196,7 +196,7 @@ This is the best thing that happend for the Gonzo Pi, no more dropped frames. Wi
 
 [Aliexpress](https://www.aliexpress.com/item/1005006328459181.html?src=bing&exp_tag=pcgcp&albch=shopping&acnt=135107044&albcp=555861336&albag=1302922588132919&slnk=&trgt=pla-2333232394153270&plac=&crea=81432727840498&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_FI_PMAX_ALL_maxvalue_20260814_purchase%E4%BA%8B%E4%BB%B6_AEsupply&utm_content=AssetGroup_052726_102713&utm_term=USB3+micro+sd+card&msclkid=ec940d67d191193955b2666373f285ae&aff_fcid=41e762b5c68f4150a70a932cda54ba78-1795465838234-03619-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=41e762b5c68f4150a70a932cda54ba78-1795465838234-03619-UneMJZVf&terminal_id=72f6fa3eee344260bd019c96fb9a6f58&afSmartRedirect=n)
 
-Raspberry Pi High Quality Camera
+SONY Raspberry Pi High Quality Camera
 ----------------------------------------------
 Price ~60 eur
 
@@ -247,14 +247,33 @@ Here's a pack with 40 pcs of 2600mAh 3.7V 18650 cells.
 
 [Aliexpress](https://www.aliexpress.com/item/32795814865.html?spm=a2g0s.9042311.0.0.27424c4dUBojcv)
 
+
+18650 35E 3.7V 3500mAh
+--------------------
+price ~2.69€ pcs
+
+buy batteries separate and solder the battery bank yourself
+
+[Aliexpress](https://www.aliexpress.com/item/1005012718291154.html?spm=a2g0o.productlist.main.19.17cf64c5QoITGT&algo_pvid=e4a7ecb5-99f9-4c65-a420-c7bca5bc5aec&algo_exp_id=e4a7ecb5-99f9-4c65-a420-c7bca5bc5aec-18&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2129.56%2126.70%21%21%2129.56%2126.70%21%40210398e917957895142947477e1088%2112000059170650367%21sea%21FI%210%21X%211%210%21n_tag%3A-29919%3Bd%3Ae78f249%3Bm03_new_user%3A-29895&curPageLogUid=mAonvaER9qrG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012718291154%7C_p_origin_prod%3A)
+
+3.7V 3A li-ion BMS PCM battery protection board
+--------------------------
+price ~1.90€
+
+this board need to be wired in between batteries and power booster board
+
+[Aliexpress](https://www.aliexpress.com/item/1005007629849009.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.3.48e2671bQ6n4EP&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a48fc89b-f6fb-4d9b-b5be-7d6b5e91da42&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Aa48fc89b-f6fb-4d9b-b5be-7d6b5e91da42%2Ctpp_buckets%3A668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22821%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21EUR%211.90%211.90%21%21%2113.55%2113.55%21%400b884a9917957894781297650e0fbc%2112000041566912600%21rec%21FI%21%21X%211%210%21n_tag%3A-29919%3Bd%3Ae78f249%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007629849009%7C_p_origin_prod%3A)
+
 Type-C 5v 2A 3.7V Li-ion battery charger booster module
 -------------------------------------------------------
-Price ~2€
+Price ~3€
 
-Enough juice in this booster charger to run teh pi 3b without dropping voltage.
+Enough juice in this booster charger to run teh pi 4b without dropping voltage.
 
 **Buy**
 [Ebay](https://www.ebay.com/itm/Type-C-USB-5V-2A-3-7V-18650-Lithium-Li-ion-Battery-Charging-Board-Charger-Module/383717339632?var=652109038482)
+
+[Aliexpress](https://www.aliexpress.com/item/1005012166470890.html?src=bing&exp_tag=pcgcp&albch=shopping&acnt=135105396&albcp=555913914&albag=1302922607165847&slnk=&trgt=pla-2333232394166594&plac=&crea=81432729353571&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_FI_PMAX_ALL_MAXV_paid+buyer+new_AESupply_26.10.29_EU6&utm_content=za&utm_term=Type-C+5v+2A+3.7V+Li-ion+battery+charger+booster+module&msclkid=b33625676dc91d85398d4e6ef82d716e&aff_fcid=801a6c5fdbc447f2989c1a36117169b7-1795790313571-05829-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=801a6c5fdbc447f2989c1a36117169b7-1795790313571-05829-UneMJZVf&terminal_id=72f6fa3eee344260bd019c96fb9a6f58&afSmartRedirect=n)
 
 8x8x5MM DIP-4 Silicone Switch Mute Silent button
 ------------------------------------------------
